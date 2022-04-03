@@ -10,7 +10,7 @@ h1,
 h2,
 h3 {
   text-align: center;
-  margin: 0;
+  margin: 0 10px;
 }
 
 h1 {
@@ -103,11 +103,6 @@ p {
   }
   p {
     text-align: center;
-  }
-  .launch-button {
-    display: block;
-    text-align: center;
-    margin: 0 20px;
   }
 }
 @media (max-width: 820px) {
